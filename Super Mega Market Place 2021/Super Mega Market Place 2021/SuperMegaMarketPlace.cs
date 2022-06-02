@@ -56,7 +56,6 @@ namespace Super_Mega_Market_Place_2021
 
         private void perrito_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
         }
 
         private void SuperMegaMarketPlace_Load(object sender, EventArgs e)
